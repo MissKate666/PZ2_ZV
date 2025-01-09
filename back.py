@@ -1,5 +1,5 @@
 def f(a,b,c):
-    d=sqrt(b*b-4*a*c)
+    d = sqrt(b*b-4*a*c)
     if d<0:
         return None
     if d>0:
